@@ -1,0 +1,13 @@
+# KiCad: copias de seguridad y archivos temporales
+*-backups/
+*.bak
+*-bak
+*.lck
+_autosave-*
+fp-info-cache
+*-cache.*
+*.kicad_prl
+~*
+# Sistema
+.DS_Store
+Thumbs.db
