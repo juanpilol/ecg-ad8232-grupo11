@@ -4,10 +4,10 @@ Proyecto de integración del curso **Electrónica para Ingeniería Biomédica**.
 Sistema de adquisición de ECG de una derivación basado en el módulo **AD8232** y un **Arduino UNO**, con una PCB de integración diseñada en **KiCad** y fabricable en la ruteadora CNC del laboratorio.
 
 ## Integrantes
-- Juan Pablo Monsalve — [correo institucional]
-- Benjamin Ulloa — [correo institucional]
+- Juan Pablo Monsalve — [j.monsalvebudd.cl]
+- Benjamin Ulloa — [b.ulloapudd.cl]
 
-Curso y sección: [completar] · Grupo: 11
+Curso y sección: Electronica Biomedica · Grupo: 11
 
 ## Descripción
 El módulo AD8232 amplifica y filtra la señal biopotencial captada por tres electrodos (RA, LA, RL). Su salida analógica se digitaliza en el ADC de 10 bits del Arduino UNO y se envía por puerto serie al computador para visualizarla (Serial Plotter). Los pines LO+ y LO- indican si algún electrodo está desconectado.
